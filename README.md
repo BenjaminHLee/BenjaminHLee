@@ -9,4 +9,6 @@ devs/users/teammates/etc, we should definitely get in touch! And, of course, if 
 questions about something I've worked on, feel free to send me a message.
 
 You can reach me via email at benjaminlee@brown.edu, or on LinkedIn at 
-https://www.linkedin.com/in/benjamin-h-lee/.
+https://www.linkedin.com/in/benjamin-h-lee/. 
+
+https://benleejamin.com
